@@ -178,7 +178,7 @@ public class Triangle {
     }
 
     /**
-    * Gets the perimete.
+    * Gets the perimeter.
     *
     * @return returns the perimeter
     */
